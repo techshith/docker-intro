@@ -1,9 +1,3 @@
-# Docker
-
-A great video about dockers:
-
-[https://www.youtube.com/watch?v=Tyy1BUEmhwg](https://www.youtube.com/watch?v=Tyy1BUEmhwg)
-
 # Steps to build and run Docker
 
 in general, the steps are:
