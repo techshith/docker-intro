@@ -130,9 +130,6 @@ services:
     stdin_open: true
     tty: true**
 ```
-
-# Bonus
-
 ## the difference between bare metal vs VM vs dockers
 
 ![Untitled](images/Untitled%206.png)
